@@ -440,3 +440,4 @@ Received Import Request.
   path: Assets/VR Controllers Models/Vive15/trackpad.obj
   artifactKey: Guid(43f2fa72b117ccd4ca9c9841eb9b6628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/VR Controllers Models/Vive15/trackpad.obj using Guid(43f2fa72b117ccd4ca9c9841eb9b6628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6168099e5f2641c91543cdb15cca979c') in 0.027200 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
